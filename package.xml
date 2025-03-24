@@ -21,7 +21,7 @@
   <depend>gz-plugin3</depend>
   <depend>gz-rendering9</depend>
   <depend>gz-sensors9</depend>
-  <depend>gz-sim10</depend>
+  <depend>gz-sim</depend>
   <depend>gz-transport14</depend>
   <depend>gz-utils3</depend>
   <depend>sdformat15</depend>

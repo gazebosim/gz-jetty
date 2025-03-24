@@ -20,7 +20,7 @@ gz_configure_project(VERSION_SUFFIX)
 
 gz_find_package(gz-common6 REQUIRED)
 gz_find_package(gz-fuel_tools10 REQUIRED)
-gz_find_package(gz-sim10 REQUIRED)
+gz_find_package(gz-sim REQUIRED)
 gz_find_package(gz-gui10 REQUIRED)
 gz_find_package(gz-launch REQUIRED)
 gz_find_package(gz-math8 REQUIRED)
