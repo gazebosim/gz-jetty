@@ -10,21 +10,21 @@
 
   <buildtool_depend>cmake</buildtool_depend>
 
-  <depend>gz-cmake4</depend>
-  <depend>gz-common6</depend>
-  <depend>gz-fuel_tools10</depend>
+  <depend>gz-cmake</depend>
+  <depend>gz-common</depend>
+  <depend>gz-fuel_tools</depend>
   <depend>gz-gui</depend>
   <depend>gz-launch</depend>
-  <depend>gz-math8</depend>
-  <depend>gz-msgs11</depend>
-  <depend>gz-physics8</depend>
-  <depend>gz-plugin3</depend>
-  <depend>gz-rendering9</depend>
+  <depend>gz-math</depend>
+  <depend>gz-msgs</depend>
+  <depend>gz-physics</depend>
+  <depend>gz-plugin</depend>
+  <depend>gz-rendering</depend>
   <depend>gz-sensors</depend>
   <depend>gz-sim</depend>
   <depend>gz-transport</depend>
-  <depend>gz-utils3</depend>
-  <depend>sdformat15</depend>
+  <depend>gz-utils</depend>
+  <depend>sdformat</depend>
 
   <export>
     <build_type>cmake</build_type>
