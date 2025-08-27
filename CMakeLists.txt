@@ -14,7 +14,7 @@ find_package(gz-cmake REQUIRED)
 #============================================================================
 # Configure the project
 #============================================================================
-gz_configure_project(VERSION_SUFFIX)
+gz_configure_project(VERSION_SUFFIX pre1)
 
 # all list of jetty packages
 
