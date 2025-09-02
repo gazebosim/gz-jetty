@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     name: Validate package.xml
     steps:
-      - uses: gazebo-tooling/action-gz-ci/validate_package_xml@noble
+      - uses: gazebo-tooling/action-gz-ci/validate_package_xml@scpeters/package_xmllint
