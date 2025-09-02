@@ -17,7 +17,7 @@
   <depend>gz-launch</depend>
   <depend>gz-math</depend>
   <depend>gz-msgs</depend>
-  <depend>gz-physics</depend>
+  <depend>gz-physics</depend-->
   <depend>gz-plugin</depend>
   <depend>gz-rendering</depend>
   <depend>gz-sensors</depend>
